@@ -187,7 +187,8 @@ form button{
 	color: #b8b8b8;
 }
 .more{
-	margin: 35px 0 0 25px;
+	margin: 35px 0 0 3px;
+	background-color: #aeaeae;
 }
 .w img{
 	float: right;
