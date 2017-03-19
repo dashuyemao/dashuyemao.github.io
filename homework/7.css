@@ -22,13 +22,32 @@ li{
 	font-family: '微软雅黑';
 	font-size: 20px;
 	float: left;
+	color: #0a3b7e;
+}
+form{
+	width: 230px;
+	height: 30px;
 }
 .search{
 	margin: 39px 19px 0 0;
 	float: right;
+	width: 195px;
+	height: 27px;
+	border:2px solid:#e5e5e5; 
+	border-right: none;
+}
+input{
+	/*background-color: #f1f1f1;*/
+	box-shadow: none;
+	/*border:2px solid:#e5e5e5; */
+}
+form button{
+	margin-top: 2px;
+	border:2px solid:#e5e5e5; 
+	border-left: none;
+	background-color: #f1f1f1;
 }
 .search button img{
-	width: 15px;
 	height: 10px;
 }
 .nav{
@@ -61,7 +80,7 @@ li{
 	top: 155px;
 	left: 340px;
 }
-.banner button a{
+/*.banner button a{
 	width: 200px;
 	height: 47px;
 	color: white;
@@ -72,7 +91,7 @@ li{
 	background-color: #0a3b7e;
 	position: absolute;
 	top: 228px;
-	left: 399px;
+	left: 399px;*/
 }
 .banner .img2{
 	position: absolute;
@@ -98,8 +117,9 @@ li{
 	font-size: 17px;
 	font-family: '微软雅黑';
 	float: left;
-	width: 500px;
-	height: 240px;
+	width: 450px;
+	height: 205px;
+	padding-top: 35px;
 }
 .y .q1{
 	margin: 35px 0 0 2px;
@@ -119,14 +139,17 @@ li{
 	float: right;
 	color: #b8b8b8;
 	font-size: 12px;
+	margin-right: 28px;
 }
 .e{
 	font-size: 17px;
 	font-family: '微软雅黑';
 	float: left;
 	width: 240px;
-	height: 240px;
+	height: 205px;
 	background-color: #f1f1f1;
+	padding-top: 35px;
+	padding-left: 25px;
 }
 .e .q2{
 	font-size: 12px;
@@ -147,9 +170,11 @@ li{
 	background-color: #fff;
 	float: left;
 	width: 258px;
-	height: 240px;
+	height: 205px;
 	font-family: '微软雅黑';
 	font-size: 17px;
+	padding-top: 35px;
+	padding-left: 25px;
 }
 .q3{
 	margin: 35px 0 0 2px;
@@ -193,6 +218,12 @@ li{
 	font-family: '微软雅黑';
 	float:left;
 }
+.p2 img{
+	padding-left: 10px;
+}
+.p2 li{
+	padding-left: 10px;
+}
 .p3{
 	border: 1px solid #fff;
 	font-size: 12px;
@@ -201,6 +232,12 @@ li{
 	font-family: '微软雅黑';
 	float:left;
 }
+.p3 img{
+	padding-left: 15px;
+}
+.p3 li{
+	padding-left: 15px;
+}
 .p4{
 	border: 1px solid #fff;
 	font-size: 12px;
@@ -208,6 +245,12 @@ li{
 	color: #b8b8b8;
 	font-family: '微软雅黑';
 	float:left;
+}
+.p4 img{
+	padding-left: 20px;
+}
+.p4 li{
+	padding-left: 20px;
 }
 .footer{
 	border: 1px solid #fff;
@@ -230,6 +273,7 @@ li{
 	width: 160px;
 	background-color: #e5e5e5;
 	float: left;
+	padding-top: 20px;
 }
 .p6 li{
 	font-size: 12px;
@@ -240,13 +284,15 @@ li{
 	font-family: '微软雅黑';
 	float: left;
 	width: 160px;
+	padding-top: 20px;
 }
 .p8{
 	font-size: 12px;
 	font-family: '微软雅黑';
 	float: left;
 	width: 170px;
-	background-color: #e5e5e5；
+	background-color: #e5e5e5;
+	padding-top: 20px;
 }
 .p9{
 	border: 1px solid #e5e5e5;
@@ -261,12 +307,17 @@ li{
 .p9 li{
 	font-size: 12px;
 	font-family: '微软雅黑';
+	padding-top: 20px;
 }
 .x1{
 	font-size: 15px;
 	font-family: '微软雅黑';
-	margin-top: 30px;
-	margin-left: 35px;
+	padding-top: 30px;
+	padding-left: 5px;
+	border-bottom: 1px solid#d0d0d0;
+}
+.x3{
+	padding-top: 12px;
 }
 .p10{
 	border: 1px solid #e5e5e5;
@@ -280,18 +331,23 @@ li{
 }
 .p10 img{
 	float: right;
+	width: 250px;
+	height: 192px;
 }
 .x2{
 	font-size: 15px;
 	font-family: '微软雅黑';
 	margin-top: 30px;
 	margin-left: 35px;
+	border-bottom: 1px solid#d0d0d0;
 }
 .p11{
 	font-size: 15px;
 	font-family: '微软雅黑';
 	color: #b8b8b8;
 	margin: 30px 0 0 10px;
+	width: 454px;
+	border-bottom: 1px solid #d0d0d0;
 }
 
 .footer .b8{
