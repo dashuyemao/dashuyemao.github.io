@@ -111,8 +111,8 @@ ul.info li span.title{ font-family: 'Arvo', Verdana, Geneva, sans-serif; margin-
 
 /* Resume */
 
-#resume div.border{ left: 260px; }
-#resume div.alignleft{ width: 230px; }
+
+#resume div.alignleft{ width: 500px; }
 #resume div.alignright{ width: 385px; }
 
 section.skills ul.info{ padding-top: 10px; font-size: 11px; }
@@ -128,7 +128,8 @@ span.rating3{ background-position: 0 -20px !important; }
 span.rating4{ background-position: 0 -30px !important; }
 span.rating5{ background-position: 0 -40px !important; }
 
-section.misc{ clear: both; }
+section.misc{ clear: both;}
+
 section.misc h3{ padding: 0; }
 section.misc ul.info{ padding-top: 10px; }
 section.misc ul.info li{ clear: both; }
@@ -185,7 +186,7 @@ form.contact input.send{
 #footer nav ul li{ float: left; }
 #footer nav ul li a{
 	display: block;
-	width: 174px;
+	width: 230px;
 	height: 49px;
 	text-align: center;
 	font: 14px/49px 'Arvo', Verdana, Geneva, sans-serif;
