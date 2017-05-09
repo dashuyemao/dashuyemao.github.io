@@ -186,7 +186,7 @@ form.contact input.send{
 #footer nav ul li{ float: left; }
 #footer nav ul li a{
 	display: block;
-	width: 230px;
+	width: 232px;
 	height: 49px;
 	text-align: center;
 	font: 14px/49px 'Arvo', Verdana, Geneva, sans-serif;
@@ -331,7 +331,7 @@ div.slider{ width: 520px; }
 
 /* Footer */
 
-#footer nav ul li a{ width: 259px; }
+#footer nav ul li a{ width: 172px; }
 
 /* End Footer */
 
@@ -382,7 +382,7 @@ div.slider{ width: 360px; }
 
 /* Footer */
 
-#footer nav ul li a{ width: 179px; }
+#footer nav ul li a{ width: 119px; }
 
 /* End Footer */
 
