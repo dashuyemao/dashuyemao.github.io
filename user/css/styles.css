@@ -103,7 +103,7 @@ ul.info li span.title{ font-family: 'Arvo', Verdana, Geneva, sans-serif; margin-
 
 /* Home */
 
-#home div.border{ left: 310px; }
+#home div.border{ left: 310px; height: 350px;}
 #home div.about{ width: 320px; float: right; padding-left: 30px; font-size: 11px;height: 300px; }
 #home div.about div.alignright{ width: 175px; }
 
